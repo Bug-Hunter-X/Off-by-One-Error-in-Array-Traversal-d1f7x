@@ -1,0 +1,1 @@
+This repository demonstrates a common off-by-one error in Java. The code attempts to access an array element beyond its bounds, leading to an ArrayIndexOutOfBoundsException. The solution demonstrates the correction.
